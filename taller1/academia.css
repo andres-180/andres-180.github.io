@@ -6,6 +6,10 @@
 	display:block;
 	margin: auto;
 }
+body{
+	background-image: url("imgs/icesi.jpg");
+	background-repeat: no-repeat;
+}
 .carousel-inner h3{
 color:blue;
 text-align:center;
