@@ -1,0 +1,25 @@
+
+
+.carousel-inner img {
+    width: 30%;
+    
+	display:block;
+	margin: auto;
+}
+.carousel-inner h3{
+color:blue;
+text-align:center;
+font-size:30px;
+font-family: 'Fredericka the Great', cursive;
+
+}
+
+
+.carousel-control.left,
+.carousel-control.right {
+	opacity: 1;
+	filter: alpha(opacity=100);
+	background-image: none;
+	background-repeat: no-repeat;
+	text-shadow: none;
+}
