@@ -9,6 +9,7 @@
 body{
 	background-image: url("imgs/icesi.jpg");
 	background-repeat: no-repeat;
+	background-size:cover;
 }
 .carousel-inner h3{
 color:blue;
@@ -17,7 +18,10 @@ font-size:50px;
 font-family: 'Fredericka the Great', cursive;
 
 }
+.container-fluid h3{
+color:red;
 
+}
 
 .carousel-control.left,
 .carousel-control.right {
