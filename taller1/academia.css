@@ -7,10 +7,10 @@
 	margin: auto;
 }
 body{
-	background-image: url("imgs/icesi.jpg");
+	background-color:#FFF9C4;
 	background-repeat: no-repeat;
 	background-size: contain;
-	opacity: 0.5;
+	
 }
 .carousel-inner h3{
 color:blue;
