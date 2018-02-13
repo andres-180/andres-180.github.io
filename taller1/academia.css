@@ -31,11 +31,7 @@ color:blue;
 
 }
 
-.container-fluid {
- margin: auto; max-width: 300px;
-	display:inline-block;
-	
-}
+
 
 .carousel-control.left,
 .carousel-control.right {
