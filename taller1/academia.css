@@ -21,8 +21,9 @@ font-size:50px;
 font-family: 'Fredericka the Great', cursive;
 
 }
-.row{
-border-width: 1px;border: solid;
+.col-xs-6 .col-sm-3{
+border-width: 1px;
+border: solid;
 }
 .container-fluid h3{
 color:red;
