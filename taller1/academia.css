@@ -9,7 +9,7 @@
 body{
 	background-image: url("imgs/icesi.jpg");
 	background-repeat: no-repeat;
-	background-size:200px;
+	background-size:50%;
 }
 .carousel-inner h3{
 color:blue;
