@@ -37,7 +37,7 @@ color:blue;
 .container-fluid {
  margin: auto; max-width: 300px;
 	display:inline-block;
-	padding-left: 190px;
+	
 }
 
 .carousel-control.left,
